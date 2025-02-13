@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\SqlBaglantim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\SqlBaglantim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOdemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmOdemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderGuncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmGiderGuncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmGider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmBolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmBolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAnaForn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmAnaForn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmAdminGiris.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmAdminGiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrListe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmOgrListe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmanaforn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmanaforn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmgelir\u0130statislik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmgelir\u0130statislik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmogrliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmogrliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmbolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmbolumler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\YurtOtomasyonDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\YurtOtomasyonDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmPersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmPersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmogrduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmogrduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrDuzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmOgrDuzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmyoneticiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmyoneticiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderListesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YurKay\u0131tSistemi\\FrmGiderListesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\yurkay\u0131tsistemi\\frmgiderlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:yurkay\u0131tsistemi\\frmgiderlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlBaglantim.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\SqlBaglantim.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\SqlBaglantim.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\SqlBaglantim.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\SqlBaglantim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:36:10.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOdemeler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOdemeler.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmOdemeler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOdemeler.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmOdemeler.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:35:53.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGiderGuncelle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderGuncelle.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmGiderGuncelle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderGuncelle.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmGiderGuncelle.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:35:46.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGider.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmGider.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGider.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmGider.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:35:38.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAdminGiris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.Designer.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmAdminGiris.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.Designer.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmAdminGiris.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:35:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAnaForn.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAnaForn.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmAnaForn.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAnaForn.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmAnaForn.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAwwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:01.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmGelir\u0130statislik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.42Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmYoneticiDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAnaForn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAnaForn.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmAnaForn.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\Her \u015Fey\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAnaForn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\Her \u015Fey\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAnaForn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T18:25:03.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGelir\u0130statislik.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmGelir\u0130statislik.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmOgrListe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrListe.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmOgrListe.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\Her \u015Fey\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrListe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\Her \u015Fey\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrListe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T18:25:03.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmAdminGiris.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBolumler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmBolumler.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmBolumler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmBolumler.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmBolumler.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmOgrListe.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrListe.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmOgrListe.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrListe.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmOgrListe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:01.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmBolumler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmBolumler.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmBolumler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmBolumler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmBolumler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.459Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAdminGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmAdminGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T18:25:03.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YurtOtomasyonDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\YurtOtomasyonDataSet.xsd",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\YurtOtomasyonDataSet.xsd",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\YurtOtomasyonDataSet.xsd",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\YurtOtomasyonDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-02-13T18:25:03.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmPersonel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmPersonel.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmPersonel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmPersonel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmPersonel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmPersonel.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmPersonel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T18:25:03.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmGider.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGider.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmGider.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGider.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmGider.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.479Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmOgrDuzenle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrDuzenle.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmOgrDuzenle.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrDuzenle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrDuzenle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T18:25:03.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmOgrDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrDuzenle.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmOgrDuzenle.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmOgrDuzenle.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmOgrDuzenle.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAMwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmYoneticiDuzenle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmYoneticiDuzenle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T18:25:03.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmGiderListesi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderListesi.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmGiderListesi.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderListesi.cs",
+              "RelativeToolTip": "YurKay\u0131tSistemi\\FrmGiderListesi.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:25:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmGiderListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderListesi.cs",
+              "RelativeDocumentMoniker": "YurKay\u0131tSistemi\\FrmGiderListesi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderListesi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\OneDrive\\Masa\u00FCst\u00FC\\YurKay\u0131tSistemi\\YurKay\u0131tSistemi\\FrmGiderListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T18:25:03.5Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

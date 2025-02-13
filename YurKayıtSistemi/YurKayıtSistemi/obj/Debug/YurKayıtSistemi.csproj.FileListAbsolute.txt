@@ -1,0 +1,84 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrKayit.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmBolumler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmAnaForn.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOdemeler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrListe.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrDuzenle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGider.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGiderListesi.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGiderGuncelle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGelirİstatislik.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmAdminGiris.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmYoneticiDuzenle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmPersonel.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\VS\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.ResolveComReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.ResolveComReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmPersonel.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmYoneticiDuzenle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmAdminGiris.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmAnaForn.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmBolumler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGelirİstatislik.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGider.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGiderGuncelle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGiderListesi.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOdemeler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrDuzenle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrKayit.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrListe.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\YurKayıtSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.ResolveComReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmPersonel.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmYoneticiDuzenle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmAdminGiris.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmAnaForn.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmBolumler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGelirİstatislik.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGider.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGiderGuncelle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmGiderListesi.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOdemeler.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrDuzenle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrKayit.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.FrmOgrListe.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Her şey\YurKayıtSistemi\YurKayıtSistemi\obj\Debug\YurKayıtSistemi.pdb
